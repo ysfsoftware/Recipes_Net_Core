@@ -1,0 +1,7 @@
+C:\Users\hierr\source\repos\Yemek_Tarifleri_Sitem\Yemek_Tarifleri_Sitem\bin\Yemek_Tarifleri_Sitem.dll.config
+C:\Users\hierr\source\repos\Yemek_Tarifleri_Sitem\Yemek_Tarifleri_Sitem\bin\Yemek_Tarifleri_Sitem.dll
+C:\Users\hierr\source\repos\Yemek_Tarifleri_Sitem\Yemek_Tarifleri_Sitem\bin\Yemek_Tarifleri_Sitem.pdb
+C:\Users\hierr\source\repos\Yemek_Tarifleri_Sitem\Yemek_Tarifleri_Sitem\obj\Debug\Yemek_Tarifleri_Sitem.csprojAssemblyReference.cache
+C:\Users\hierr\source\repos\Yemek_Tarifleri_Sitem\Yemek_Tarifleri_Sitem\obj\Debug\Yemek_Tarifleri_Sitem.csproj.CoreCompileInputs.cache
+C:\Users\hierr\source\repos\Yemek_Tarifleri_Sitem\Yemek_Tarifleri_Sitem\obj\Debug\Yemek_Tarifleri_Sitem.dll
+C:\Users\hierr\source\repos\Yemek_Tarifleri_Sitem\Yemek_Tarifleri_Sitem\obj\Debug\Yemek_Tarifleri_Sitem.pdb
